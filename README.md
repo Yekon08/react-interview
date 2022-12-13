@@ -1,10 +1,10 @@
 # react-interview
 
 Test technique réalisé assez rapidement donc il manque des améliorations basiques comme : 
--Tests unitaires 
--Tests e2e
--Redux ou API Context pour simplifier la gestion des données ... 
--Remplacer certaines librairie utilisées ici uniquement pour gagner du temps
+   * Tests unitaires 
+   * Tests e2e
+   * Redux (jamais utilisé) ou API Context pour simplifier la gestion des données ... 
+   * Remplacer certaines librairie utilisées ici uniquement pour gagner du temps
 
 Stack utilisée : Vite, TS, React, Tailwind
 
